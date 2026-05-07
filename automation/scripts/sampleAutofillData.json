@@ -1,0 +1,19 @@
+{
+  "name": "Alex Johnson",
+  "email": "alex@example.com",
+  "phone": "+1-555-0100",
+  "skills": ["Node.js", "Flutter", "MongoDB", "Python"],
+  "experience": [
+    {
+      "company": "Acme Systems",
+      "title": "Software Engineer",
+      "startDate": "2022",
+      "endDate": "Present",
+      "highlights": ["Built APIs", "Improved delivery speed"]
+    }
+  ],
+  "answers": [
+    "I am excited about this role because it aligns with my full-stack and AI product experience.",
+    "My greatest strength is building reliable systems that support users and internal teams."
+  ]
+}

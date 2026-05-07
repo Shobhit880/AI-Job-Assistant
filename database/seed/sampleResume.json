@@ -1,0 +1,31 @@
+{
+  "name": "Alex Johnson",
+  "email": "alex@example.com",
+  "phone": "+1-555-0100",
+  "skills": ["Node.js", "Flutter", "MongoDB", "Python", "FastAPI"],
+  "education": [
+    {
+      "institution": "State University",
+      "degree": "B.Tech Computer Science",
+      "year": "2022"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Job Assistant",
+      "description": "Built a multi-service AI-powered application assistant.",
+      "technologies": ["Node.js", "FastAPI", "Flutter", "MongoDB"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Acme Systems",
+      "title": "Software Engineer",
+      "startDate": "2022",
+      "endDate": "Present",
+      "highlights": ["Built API integrations", "Improved mobile release velocity by 25%"]
+    }
+  ],
+  "resumeSummary": "Full-stack engineer with experience building AI-enabled product workflows.",
+  "suggestions": ["Add more quantified metrics"]
+}

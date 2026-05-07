@@ -1,0 +1,38 @@
+[
+  {
+    "externalId": "job-1001",
+    "title": "Senior Full Stack Engineer",
+    "company": "BrightPath Labs",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Build Node.js APIs, Flutter experiences, and internal AI workflow tooling for job marketplace products.",
+    "skills": ["Node.js", "Express", "MongoDB", "Flutter", "Docker"],
+    "minYearsExperience": 4,
+    "sourceUrl": "https://example.com/jobs/job-1001",
+    "postedAt": "2026-04-20T10:00:00.000Z"
+  },
+  {
+    "externalId": "job-1002",
+    "title": "AI Product Engineer",
+    "company": "VectorGrid",
+    "location": "Bengaluru",
+    "type": "Full-time",
+    "description": "Ship AI-powered features, prompt workflows, FastAPI services, and experimentation tooling for enterprise customers.",
+    "skills": ["Python", "FastAPI", "MongoDB", "Docker", "AWS"],
+    "minYearsExperience": 3,
+    "sourceUrl": "https://example.com/jobs/job-1002",
+    "postedAt": "2026-04-18T10:00:00.000Z"
+  },
+  {
+    "externalId": "job-1003",
+    "title": "Mobile Engineer",
+    "company": "Northstar Health",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "description": "Develop Flutter mobile applications with strong API integration, testing, and accessibility best practices.",
+    "skills": ["Flutter", "Dart", "REST", "Playwright"],
+    "minYearsExperience": 2,
+    "sourceUrl": "https://example.com/jobs/job-1003",
+    "postedAt": "2026-04-17T10:00:00.000Z"
+  }
+]

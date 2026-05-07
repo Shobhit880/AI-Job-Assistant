@@ -1,0 +1,13 @@
+{
+  "name": "job-assistant-automation",
+  "version": "1.0.0",
+  "description": "Safe-mode Playwright automation for job application autofill",
+  "main": "scripts/autofillSafeMode.js",
+  "scripts": {
+    "autofill": "node scripts/autofillSafeMode.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.52.0"
+  }
+}
